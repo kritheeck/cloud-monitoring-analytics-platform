@@ -1,0 +1,13 @@
+# Cloud Monitoring & Analytics Platform Dependencies
+Flask==2.3.2
+prometheus-client==0.17.1
+psutil==5.9.5
+PyYAML==6.0
+requests==2.31.0
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.2.2
+matplotlib==3.7.1
+python-dotenv==1.0.0
+gunicorn==21.2.0
+Werkzeug==2.3.6
